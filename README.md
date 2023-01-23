@@ -21,7 +21,7 @@ Run the downloaded Python installer(exe).
 Check the Install launcher for all users check box. Further, you may check the Add Python 3.7 to path check box to include the interpreter in the execution path.
 
 
-<center><img src="/imgs/window_ins2.png" width="300" height="300"></center>
+<center><img src="/imgs/window_ins2.png" width="400" height="300"></center>
 
 ### Step 3: Add Python to environmental variables
 The last (optional) step in the installation process is to add Python Path to the System Environment variables. This step is done to access Python through the command line. In case you have added Python to environment variables while setting the Advanced options during the installation procedure, you can avoid this step. Else, this step is done manually as follows.
@@ -29,8 +29,8 @@ The last (optional) step in the installation process is to add Python Path to th
 In the "Start menu" >> “advanced system settings” >> “View advanced system settings” >> 
       “System Properties” >> “Advanced" tab >> “Environment Variables” button. 
       Locate the Python installation directory on your system.
+      **Append the installation directory path to PATH variable**
       
-      
-<center><img src="/imgs/window_ins3.png" width="300" height="300"></center>
+<center><img src="/imgs/window_ins3.png" width="400" height="300"></center>
 
-<center><img src="/imgs/window_ins4.png" width="300" height="300"></center>
+<center><img src="/imgs/window_ins4.png" width="800" height="200"></center>
