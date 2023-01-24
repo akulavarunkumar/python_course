@@ -42,7 +42,7 @@ In the "Start menu" >> “advanced system settings” >> “View advanced system
 
 
 ## How to Install Python on Mac
-We need to follow same step as windows installation but in different commands
+We need to follow same step as windows installation but using different commands
 
 ### Step1: Download the pkg files
 Open the [official Python website](https://www.python.org/downloads) in your web browser.
