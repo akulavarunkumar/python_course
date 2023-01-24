@@ -1,7 +1,7 @@
 # Python Installation Steps in Windows, Linux, Mac Operating Systems
 
 
-## How to Install Python on Windows 10 
+## How to Install Python on Windows 
 
 
 Installing and using Python on Windows 10 is very simple. The installation procedure involves just three steps:
@@ -34,3 +34,18 @@ In the "Start menu" >> “advanced system settings” >> “View advanced system
 <center><img src="/imgs/window_ins3.png" width="400" height="300"></center>
 
 <center><img src="/imgs/window_ins4.png" width="800" height="200"></center>
+
+
+
+## How to Install Python on Linux
+
+
+
+## How to Install Python on Mac
+We need to follow same step as windows installation but in different commands
+
+### Step1: Download the pkg files
+Open the [official Python website](https://www.python.org/downloads) in your web browser.
+### Step2: Run the Executable Installer
+Once the download is complete, double-click the package to start installing Python. The installer will walk you through a wizard to complete the installation, and in most cases, the default settings work well, so install it like the other applications on macOS. You may also have to enter your Mac password to let it know that you agree with installing Python.
+
